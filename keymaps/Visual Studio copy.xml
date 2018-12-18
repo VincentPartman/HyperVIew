@@ -1,0 +1,10 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="EditorChooseLookupItemDot" />
+  <action id="FindInPath" />
+  <action id="GotoCustomRegion" />
+  <action id="IntroduceField" />
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt f8" />
+  </action>
+</keymap>
